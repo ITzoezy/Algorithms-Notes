@@ -1,1 +1,1 @@
-# NOTES
+# Daily Practice Algorithm
