@@ -1,4 +1,4 @@
-#二分查找
+# 二分查找
 ```java
 class Solution {
     public int searchInsert(int[] nums, int target) {
